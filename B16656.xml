@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London ss. Ad generalem quarterial sessionem Pacis Domini Regis tentam pro civitate London per adjornamentum apud Justice-Hall in le Old Bailey London, in parochia Sancti Sepulchri in ward de Farringdon extra London Præd', die Mercurii, scil. decimo die Octobris, anno regni Domini nostri Caroli Secundi, Dei gratia, Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ regis, fidei defensoris, &amp;c. vicesimo nono; coram Thoma Davies, Milite, Majore civitatis London, Thoma Aleyn, Milite &amp; Baronetto, Johanne Frederick, Milite, Georgio Waterman, Milite, Roberto Hanson, Milite, &amp; Josepho Sheldon, Milite, Aldermannis civitatis præd', &amp; Will'o Dolben, Milite, recordatore ejusdem civitatis, ac aliis sociis suis jusitciariis dicti Domini Regis ad Pacem in Civitate prædict' conservadam, necnon ad diversas felonias, transgressiones, &amp; alia malefacta infra eandem civitatem perpetrata audienda &amp; terminanda assignatis.</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16656</idno><idno type="EEBO-CITATION">99825568_29954</idno>
+  <idno type="VID">29954</idno>
+  <idno type="EEBO-PROQUEST">2248526776</idno>
+  
+            <idno type="STC">Wing A464A</idno>
+            <idno type="STC">ESTC R213048</idno>
+            <idno type="PROQUEST">99825568</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825568e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29954)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1772:1; 2024:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London ss. Ad generalem quarterial sessionem Pacis Domini Regis tentam pro civitate London per adjornamentum apud Justice-Hall in le Old Bailey London, in parochia Sancti Sepulchri in ward de Farringdon extra London Præd', die Mercurii, scil. decimo die Octobris, anno regni Domini nostri Caroli Secundi, Dei gratia, Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ regis, fidei defensoris, &amp;c. vicesimo nono; coram Thoma Davies, Milite, Majore civitatis London, Thoma Aleyn, Milite &amp; Baronetto, Johanne Frederick, Milite, Georgio Waterman, Milite, Roberto Hanson, Milite, &amp; Josepho Sheldon, Milite, Aldermannis civitatis præd', &amp; Will'o Dolben, Milite, recordatore ejusdem civitatis, ac aliis sociis suis jusitciariis dicti Domini Regis ad Pacem in Civitate prædict' conservadam, necnon ad diversas felonias, transgressiones, &amp; alia malefacta infra eandem civitatem perpetrata audienda &amp; terminanda assignatis.</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark, printer to the honorable City of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening paragraph of text.</note>
+                  <note>From the text: "The justices of the peace of this city, assembled at this general quarter sessions of the peace, taking into their due consideration the several complaints taht have been made against the inn-keepers, hostlers, and stable-keepers within this city and liberties thereof, for selling their horse-meat and provender at excessive and immoderate rates and prices, .." -- The order is intended to regulate the costs of keeping horses at livery or stables.</note>
+                  <note>Identified as Wing A463A on UMI microfilm reel 1772 Early Englsih books, 1641-1700.</note>
+                  <note>Reproductions of the originals in the Harvard University Library ("Early English books, 1641-1700" reel 1772), and the Bodleian Library (reel 2024).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Horsemeat --  Early works to 1800.</term>
+               <term type="topical_term">Horses --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:29954:1"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the city of London</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>blazon or coat of arms of the city of London</figDesc>
+               </figure>
+               <note place="margin">LONDON ss.</note> Ad Generalem Quarterial' Sessionem Pacis Domini Regis tentam pro Civitate <hi>London,</hi> per Adjornamentum apud <hi>Justice-hall</hi> in <hi>le Old Bailey, London,</hi> in Parochia Sancti Sepulchri in Ward de <hi>Farringdon</hi> extra <hi>London</hi> praed', die <hi>Mercurii,</hi> scil. decimo die <hi>Octobris,</hi> Anno Regni Domini nostri CAROLI Secundi, Dei gratia, <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiber<g ref="char:EOLhyphen"/>niae</hi> Regis, Fidei Defensoris, <hi>&amp;c.</hi> vicesimo nono; coram <hi>Thoma Davies,</hi> Milite, Majore Civitatis <hi>London, Thoma Aleyn,</hi> Milite &amp; Baronetto, <hi>Johanne Frederick,</hi> Milite, <hi>Georgio Waterman,</hi> Milite, <hi>Roberto Hanson,</hi> Milite, &amp; <hi>Josepho Sheldon,</hi> Milite, Aldermannis Civitatis praed', &amp; <hi>Will'o Dolben,</hi> Milite, Recordatore ejusdem Civitatis, ac aliis Sociis suis Justiciariis dicti Domini Regis ad Pacem in Civitate praedict' conservandam, necnon ad diversas felonias, transgressiones, &amp; alia malefacta infra eandem Civitatem perpe<g ref="char:EOLhyphen"/>trata audienda &amp; terminanda assignatis.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE Iustices of the Peace of this City, assembled at this Ge<g ref="char:EOLhyphen"/>neral Quarter Sessions of the Peace, taking into their due consideration the several complaints that have been made a<g ref="char:EOLhyphen"/>gainst the Inn-keepers, Hostlers, and Stable-keepers within this City and Liberties thereof, for selling their Horse-meat and Provender at excessive and immoderate Rates and Prices, and their Provender in small measures, to the great Oppression of His Majesties Subjects: For redress herein, for the future, do think fit to Order, and it is hereby thought fit and Ordered, that the Rules, Rates, and Prices for Horse-meat, and the measures hereafter mentioned, be observed throughout the City of</hi> London <hi>and Liberties thereof, until other Order shall be made to the con<g ref="char:EOLhyphen"/>trary.</hi>
+            </p>
+            <p>First, That every Inn-keeper and Hostler, shall suffer the Horses of their Guests, to stand at Livery, if the Owner will, and that they shall sell Oats, Pease and Beans, in their Inns and Hosteries, by <hi>Winchester</hi> measure, and by no other measure, and that no Inn-keeper or Hostler, shall take in his Inn or Hostery, above the Rates and Prices hereafter expressed, or any of them, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell cols="2"> </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Of Persons who Lodge in their Inns and have not their Diet in the same Inns for the most part.</cell>
+                     <cell>For one Horse standing at Livery at good and sweet Hay a day and a night, the Inn-keeper there<g ref="char:EOLhyphen"/>with also finding good Litter</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>For a Peck of Oats of <hi>Winchester</hi> measure</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>And so after that Rate and not above.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Of Persons who Lodge in their Inns and take their Diet in the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me Inn.</cell>
+                     <cell>For one Horse standing at Livery at good and sweet Hay a day and a night, the Inn-keeper there<g ref="char:EOLhyphen"/>with finding good Litter</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>For a Peck of Oats of the measure aforesaid</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>And so after that Rate and not above.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Of Persons who Lodge not in their Inns &amp; have their Horses standing there.</cell>
+                     <cell>For one Horse standing at Livery at good and sweet Hay a day and a night, the Inn-keeper there<g ref="char:EOLhyphen"/>with finding also good Litter</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>For a Peck of Oats of the measure aforesaid</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>And so after that Rate and not above.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Of any Person whatsoever.</cell>
+                     <cell>For a Horse for standing in his Stable unbridled at Hay, if he go away the same day </cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>For a Horse for standing in his Stable not unbridled, while he stayeth not above an hour</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>And it is further Ordered, that these Rates be Printed, and Copies thereof be forth<g ref="char:EOLhyphen"/>with set upon Posts or Boards, in the several Markets, and other Publick Streets and Places of this City.</hi>
+            </p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honorable City of LONDON. 1677.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
